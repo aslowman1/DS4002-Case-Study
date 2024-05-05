@@ -1,8 +1,8 @@
 # Am I a Robot? Can AI Classify CAPTCHA Images? 
-Addison Lowman
-Adapted from Group 2's Third Project Cycle
-DS 4002
-Last Updated: 05/10/2024
+Addison Lowman  <br> 
+Adapted from Group 2's Third Project Cycle  <br> 
+DS 4002  <br> 
+Last Updated: 05/10/2024  <br> 
 
 # Description 
 In an age where technology is in every aspect of our lives, ensuring the security of online platforms becomes more important than ever. CAPTCHAS, once prized as the frontline defense against bots and automated attacks, are beginning to face challenges from advancing AI and machine learning algorithms. As a result, there is an urgent need to reevaluate the efficacy of image-based CAPTCHAs and explore alternative methods to safeguard digital security. 
